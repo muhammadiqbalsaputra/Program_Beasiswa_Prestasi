@@ -9,7 +9,7 @@ NIM : 23090120
 Studi Kasus :
 
 Seleksi Beasiswa Prestasi PoltekHarber
-![Beasiswa Prestasi](https://github.com/muhammadiqbalsaputra/Program_Beasiswa_Prestasi/assets/145625070/80e77acb-f3dd-4b39-ae7b-a347e024bb14)
+![beasiswa prestasi (2)](https://github.com/muhammadiqbalsaputra/Program_Beasiswa_Prestasi/assets/145625070/d0c1043d-168d-41c1-bbe6-bd94c48d2cb7)
 
 Program ini menjalankan sebuah program untuk memilah serta men seleksi para siswa yang berhasil mendapatkan beasiswa prestasi
 
